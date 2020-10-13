@@ -1,7 +1,7 @@
 # PythonDockerDemo
 
-###Michael Drozdowski
+### Michael Drozdowski
 
-#####Screenshot of the program running in PyCharm:
+##### Screenshot of the program running in PyCharm:
 
 ![Program Screeenshot](CodeRunningInPycharm.PNG)
